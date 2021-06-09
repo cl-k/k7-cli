@@ -1,0 +1,22 @@
+{
+  "name": "@k7-cli/core",
+  "version": "1.0.0",
+  "description": "k7-cli core",
+  "author": "k <kunkunzzzz@outlook.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@k7-cli/utils": "^1.0.0"
+  }
+}
