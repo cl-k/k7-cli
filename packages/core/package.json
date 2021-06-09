@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "k7-cli": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -18,5 +21,6 @@
   },
   "dependencies": {
     "@k7-cli/utils": "^1.0.2"
-  }
+  },
+  "gitHead": "fbb34831113bc551683a65a0513671402c00d477"
 }
