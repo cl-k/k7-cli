@@ -22,5 +22,8 @@
   "dependencies": {
     "@k7-cli/utils": "^1.0.1"
   },
-  "gitHead": "178d6691118aa7ad4f4af1731be477a60a721461"
+  "gitHead": "6ae9ad7a4841255f5762412b8b7c1dcc57aed582",
+  "publishConfig": {
+    "access": "public"
+  }
 }
