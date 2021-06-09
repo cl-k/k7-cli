@@ -1,6 +1,6 @@
 {
   "name": "@k7-cli/utils",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "k7-cli utils",
   "author": "k <kunkunzzzz@outlook.com>",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "fbb34831113bc551683a65a0513671402c00d477"
+  "gitHead": "178d6691118aa7ad4f4af1731be477a60a721461"
 }
