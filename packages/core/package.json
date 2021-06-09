@@ -1,6 +1,6 @@
 {
   "name": "@k7-cli/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "k7-cli core",
   "author": "k <kunkunzzzz@outlook.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@k7-cli/utils": "^1.0.3"
+    "@k7-cli/utils": "^1.0.4"
   },
   "gitHead": "6ae9ad7a4841255f5762412b8b7c1dcc57aed582",
   "publishConfig": {
